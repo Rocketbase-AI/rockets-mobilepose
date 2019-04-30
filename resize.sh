@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
 # Purpose: batch image resizer
-# Source: https://guides.wp-bullet.com
-# Author: Mike
 
 # absolute path to image folder
 FOLDER="/home/jupyter/MobilePose-pytorch/images"

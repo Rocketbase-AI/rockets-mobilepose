@@ -1,14 +1,11 @@
 # coding: utf-8
 '''
 File: training.py
-Project: MobilePose-PyTorch
+Project: MobilePose
 File Created: Friday, 8th March 2019 6:53:13 pm
-Author: Yuliang Xiu (yuliangxiu@sjtu.edu.cn)
+Author: Heiki Riesenkampf (heiki@mirage.id)
 -----
-Last Modified: Monday, 11th March 2019 12:50:27 am
-Modified By: Yuliang Xiu (yuliangxiu@sjtu.edu.cn>)
------
-Copyright 2018 - 2019 Shanghai Jiao Tong University, Machine Vision and Intelligence Group
+Copyright 2019 Mirage Technologies AG
 '''
 
 

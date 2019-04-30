@@ -1,13 +1,11 @@
+# coding: utf-8
 '''
 File: estimator.py
-Project: MobilePose-PyTorch
-File Created: Monday, 11th March 2019 12:50:16 am
-Author: Yuliang Xiu (yuliangxiu@sjtu.edu.cn)
+Project: MobilePose
+File Created: Friday, 8th March 2019 6:53:13 pm
+Author: Heiki Riesenkampf (heiki@mirage.id)
 -----
-Last Modified: Monday, 11th March 2019 12:50:58 am
-Modified By: Yuliang Xiu (yuliangxiu@sjtu.edu.cn>)
------
-Copyright 2018 - 2019 Shanghai Jiao Tong University, Machine Vision and Intelligence Group
+Copyright 2019 Mirage Technologies AG
 '''
 
 
